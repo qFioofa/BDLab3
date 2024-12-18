@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "BDLab3",
+            "database": "dblab3",
+            "username": "qfioofa"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "BDLab3_r",
+            "database": "bdlab3_r",
+            "username": "qfioofa"
+        }
+    ]
+}
